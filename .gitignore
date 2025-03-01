@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+asbuilt_downloads/
+vins.txt
+vins
+*.log
+temp_captcha.png
